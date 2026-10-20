@@ -16,19 +16,15 @@ Repository ini berisi kumpulan tugas praktikum web statis yang dibuat menggunaka
 
 ### 1. Project 1 - Pancasila
 * **Deskripsi:** Halaman web statis yang menampilkan Lambang Negara, Garuda Pancasila, beserta teks 5 Sila Pancasila dan deskripsi singkat.
-* **Fitur:** Aset gambar, teks paragraf, dan tata letak dasar HTML.
 
 ### 2. Project 2 - Resep Kue Maryam
 * **Deskripsi:** Halaman web tutorial memasak yang menyajikan bahan-bahan dan langkah-langkah pembuatan Kue Maryam (Roti Canai).
-* **Fitur:** List bahan, langkah bertahap, dan dokumentasi foto proses pembuatan.
 
 ### 3. Project 3 - Tabel Absensi Siswa
-* **Deskripsi:** Tabel data rekapitulasi kehadiran siswa kelas XI RPL untuk bulan Januari, Februari, dan Maret.
-* **Fitur:** Penggunaan `rowspan` dan `colspan` pada tabel HTML serta rincian sub-kolom Sakit (S), Izin (I), dan Alpa/Hadir (A).
+* **Deskripsi:** Tabel data rekapitulasi kehadiran siswa kelas XI RPL untuk bulan Januari, Februari, dan Maret menggunakan `rowspan` dan `colspan`.
 
 ### 4. Project 4 - Kartu Keluarga
 * **Deskripsi:** Tampilan lembar simulasi Kartu Keluarga (KK) resmi yang memuat data lengkap anggota keluarga dan silsilah keluarga.
-* **Fitur:** Struktur tabel kompleks (Tabel Data Pribadi & Tabel Status/Silsilah Keluarga), format NIK, alamat lengkap, dan styling CSS.
 
 ---
 *Dibuat oleh Helcia Andika Putri - XI RPL 🚀*
